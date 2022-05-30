@@ -42,4 +42,4 @@ compute('https://www.otomoto.pl/osobowe?page=',5)
 array.sort()
 df = pd.DataFrame.from_dict(Counter(array),orient='index',columns={'ilosc'}).reset_index()
 
-show_and_save(df,'rok','liczba','barh','liczba_aut_wg_wieku_pierwsze_5_stron')
+show_and_save(df,'rok','liczba','barh','')
