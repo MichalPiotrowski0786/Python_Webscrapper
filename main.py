@@ -42,4 +42,6 @@ compute('https://www.otomoto.pl/osobowe?page=',5)
 array.sort()
 df = pd.DataFrame.from_dict(Counter(array),orient='index',columns={'ilosc'}).reset_index()
 
-show_and_save(df,'rok','liczba','bar','')
+show_and_save(df,'rok','liczba','barh','statystyka_otomoto')
+
+#Oskar Cyms, Paweł Rogoża, Michał Piotrowski
