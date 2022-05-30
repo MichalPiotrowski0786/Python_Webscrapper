@@ -13,8 +13,3 @@ Screenshots:
     <img src="github/0.png?raw=true">
   </kbd>
 </p>
-<p align="center">
-  <kbd>
-    <img src="github/1.png?raw=true">
-  </kbd>
-</p>
